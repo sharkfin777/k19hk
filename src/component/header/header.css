@@ -1,0 +1,14 @@
+
+header{
+    display: flex;
+    color:  blueviolet;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.fa{
+   font-size: 1.8rem;
+   margin: 22.4px;
+}
+

@@ -1,0 +1,22 @@
+.alink{
+    display: inline-flex;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 1rem;
+    padding: .7rem 1.2rem;
+    border-radius: 60px;
+    text-decoration: none;
+    color: white;
+    font-size: .7rem;
+    background-color: blueviolet ;
+    border: 1px solid blueviolet;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.alink:hover{
+    transition-duration: .3s;
+    color: blueviolet;
+    background-color: white;
+    
+}

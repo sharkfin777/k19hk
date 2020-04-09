@@ -1,0 +1,18 @@
+.awesome-footer{
+    padding: 5rem;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 100px;
+}
+
+.awesome-footer>ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.awesome-footer>ul>li:hover{
+  transition-duration:.2s;
+   transform: scale(1.2,1.2) rotate(5deg);
+}
